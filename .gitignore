@@ -133,3 +133,5 @@ test.py
 .ipynb_checkpoints/
 
 /.idea/
+
+original.ipynb
